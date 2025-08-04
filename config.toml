@@ -6,6 +6,9 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+
 [YouTube]
 build-mode = "both"
 excluded-patches = ""
